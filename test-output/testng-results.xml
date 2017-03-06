@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1671" started-at="2013-02-13T19:35:09Z" finished-at="2013-02-13T19:35:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1671" started-at="2013-02-13T19:35:09Z" finished-at="2013-02-13T19:35:11Z">
+      <class name="com.velti.autoqa.tests.http_api.BaseHttpApiTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.velti.autoqa.tests.http_api.BaseHttpApiTest@16e14f9]" name="beforeClass" is-config="true" duration-ms="78" started-at="2013-02-13T11:35:09Z" finished-at="2013-02-13T11:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.velti.autoqa.tests.http_api.BaseHttpApiTest@16e14f9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2013-02-13T11:35:09Z" finished-at="2013-02-13T11:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testme()[pri:0, instance:com.velti.autoqa.tests.http_api.BaseHttpApiTest@16e14f9]" name="testme" duration-ms="1515" started-at="2013-02-13T11:35:09Z" finished-at="2013-02-13T11:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testme -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.velti.autoqa.tests.http_api.BaseHttpApiTest@16e14f9]" name="tearDown" is-config="true" duration-ms="0" started-at="2013-02-13T11:35:11Z" finished-at="2013-02-13T11:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.velti.autoqa.tests.http_api.BaseHttpApiTest@16e14f9]" name="afterMethod" is-config="true" duration-ms="0" started-at="2013-02-13T11:35:11Z" finished-at="2013-02-13T11:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.velti.autoqa.tests.http_api.BaseHttpApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
